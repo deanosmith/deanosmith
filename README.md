@@ -1,9 +1,9 @@
 # Dean M. Smith
 
-**Data Engineer · Copenhagen · Builder of practical tools**
+**Data Platform Engineer** · _Copenhagen - Denmark_
 
-I am a **Data Platform Engineer** based in **Copenhagen - Denmark**. 
-I build and maintain data processing systems, data infrastructure and lightweight personal productivity web apps. My work usually sits at the intersection of data engineering, clean interfaces, API integrations, and AI-assisted development.
+I build and maintain **data infrastructure and processing systems**, and lightweight personal productivity web apps. 
+<br>My work usually sits at the intersection of data engineering, API integrations, and clean intuitive interfaces... _if I can help_.
 
 ---
 
@@ -11,9 +11,9 @@ I build and maintain data processing systems, data infrastructure and lightweigh
 
 | Project | Use-case | Tech Stack |
 |---|---|---|
-| [Notas](https://deanosmith.github.io/Notas/) | Lightweight note-taking app with real-time saving, sharing, authentication, and a clean multi-device interface. | HTML · CSS · JavaScript · Firebase · Firestore · Google Auth |
-| [Lexi Score](https://lexi-score.vercel.app/) | Reading complexity tool for analysing and scoring text difficulty. | Web App · Text Analysis · Vercel |
-| [Stride](https://stride-dynamics.vercel.app/) | ACWR Fitness monitor ensuring bodily strain is optimal and sustainable. | Web App · Text Analysis · Vercel |
+| [Notas](https://deanosmith.github.io/Notas/) | Lightweight note-taking app with real-time saving, sharing, authentication, and a clean multi-device interface. | Firebase · Firestore · Google Auth |
+| [Lexi Score](https://lexi-score.vercel.app/) | Reading complexity tool for analysing and scoring text difficulty. | Lexical Analysis · LLM · Vercel · Supabase |
+| [Stride](https://stride-dynamics.vercel.app/) | ACWR Fitness monitor ensuring bodily strain is optimal and sustainable. | Vercel · API Integration |
 
 
 
@@ -56,7 +56,7 @@ I build and maintain data processing systems, data infrastructure and lightweigh
 | Theme | Focus |
 |---|---|
 | **Personal Software** | Building tools I **actually** enjoy to use |
-| **Information Systems** | Surfacing useful information with minimal friction |
+| **Information Systems** | Surfacing useful information intuitively |
 | **Data Platforms** | Clean, reliable, maintainable data systems |
 | **Automation** | Removing repetitive work with small, useful tools |
 
