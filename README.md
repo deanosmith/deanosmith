@@ -1,9 +1,10 @@
-# Dean M. Smith
+# [Dean M. Smith](https://deanosmith.github.io/deano/)
 
 **Data Platform Engineer** · _Copenhagen - Denmark_
 
 I build and maintain **data infrastructure and processing systems**, and lightweight personal productivity web apps. 
 <br>My work usually sits at the intersection of data engineering, API integrations, and clean intuitive interfaces... _if I can help_.
+
 
 ---
 
