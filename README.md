@@ -2,7 +2,8 @@
 
 **Data Engineer · Copenhagen · Builder of practical tools**
 
-I am a Data Engineer based in Copenhagen, currently working at **DFDS**. I build data systems, automation tools, lightweight web apps, and personal productivity projects. My work usually sits at the intersection of data engineering, clean interfaces, API integrations, and AI-assisted development.
+I am a **Data Platform Engineer** based in **Copenhagen - Denmark**. 
+I build and maintain data processing systems, data infrastructure and lightweight personal productivity web apps. My work usually sits at the intersection of data engineering, clean interfaces, API integrations, and AI-assisted development.
 
 ---
 
