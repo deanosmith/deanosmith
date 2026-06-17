@@ -27,7 +27,7 @@ I build and maintain **data infrastructure and processing systems**, and lightwe
 
 | Area | Tools / Technologies |
 |---|---|
-| **Data Warehousing** | Snowflake |
+| **Databases & Warehousing** | Snowflake · Postgres · Redshift |
 | **Transformation** | dbt · SQL · Python  |
 | **Orchestration** | Airflow · Python |
 | **Streaming / Messaging** | Kafka · Kafka Connect |
