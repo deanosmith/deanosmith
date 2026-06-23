@@ -15,6 +15,7 @@ I build and maintain **data infrastructure and processing systems**, and lightwe
 | [Notas](https://deanosmith.github.io/Notas/) | Lightweight note-taking app with real-time saving, sharing, authentication, and a clean multi-device interface. | Firebase · Firestore · Google Auth |
 | [Lexi Score](https://lexi-score.vercel.app/) | Reading complexity tool for analysing and scoring text difficulty. | Lexical Analysis · LLM · Vercel · Supabase |
 | [Stride](https://stride-dynamics.vercel.app/) | ACWR Fitness monitor ensuring bodily strain is optimal and sustainable. | Vercel · API Integration |
+| [Brevity](https://brevity-ios.vercel.app/) | Dynamic iOS wallpapers displaying weather, calendar, and other personalisations | iOS Shortcuts · Vercel · API Integration |
 
 
 
