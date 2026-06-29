@@ -2,7 +2,8 @@
 
 **Data Platform Engineer** · _Copenhagen - Denmark_
 
-I build and maintain **data infrastructure and processing systems**, and lightweight personal productivity web apps. 
+I build and maintain **data infrastructure and processing systems**, 
+<br> I also enjoy building lightweight personal productivity web apps to satisfy needs and solve problems.
 <br>My work usually sits at the intersection of data engineering, API integrations, and clean intuitive interfaces... _if I can help it_.
 
 
