@@ -11,12 +11,12 @@ I build and maintain **data infrastructure and processing systems**,
 
 ## Side Projects
 
-| Project | Use-case | Tech Stack |
-|---|---|---|
-| [Notas](https://deanosmith.github.io/Notas/) | Note-taking app with real-time saving & sharing, Google authentication, and a clean  interface. | Firebase · Firestore · Google Auth |
+| Project | Use-case | Tech Stack | Repo |
+|---|---|---|---|
+| [Notas](https://deanosmith.github.io/Notas/) | Note-taking app with real-time saving & sharing, Google authentication, and a clean  interface. | Firebase · Firestore · Google Auth |[Repo](https://github.com/deanosmith/Notas)
 | [Lexi Score](https://lexi-score.vercel.app/) | Reading complexity tool for analysing and calculating a book's lexical difficulty. | Lexical Analysis · LLM · Vercel · Supabase |
 | [Stride](https://stride-dynamics.vercel.app/) | ACWR Fitness monitor ensuring bodily strain is optimal and sustainable. | Vercel · API Integration |
-| [Brevity](https://brevity-ios.vercel.app/) | Dynamic iOS wallpapers displaying weather, calendar, and other personalisations | iOS Shortcuts · Vercel · API Integration |
+| [Brevity](https://brevity-ios.vercel.app/) | Dynamic iOS wallpapers displaying weather, calendar, and other personalisations | iOS Shortcuts · Vercel · API Integration | [Repo](https://github.com/deanosmith/Brevity-Wallpaper)
 
 
 
