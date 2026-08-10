@@ -6,6 +6,14 @@ I build and maintain **data infrastructure and processing systems**,
 <br> I also enjoy building lightweight personal productivity web apps to satisfy needs and solve problems.
 <br>My work usually sits at the intersection of data engineering, API integrations, and clean intuitive interfaces... _if I can help it_.
 
+---
+
+## Links
+
+| Platform | Link |
+|---|---|
+| **Personal Site** | [deanosmith.github.io/deano](https://deanosmith.github.io/deano/) |
+| **LinkedIn** | [Dean M. Smith](https://www.linkedin.com/in/dean-m-smith-a1ba171a1/) |
 
 ---
 
@@ -13,9 +21,10 @@ I build and maintain **data infrastructure and processing systems**,
 
 | Project | Use-case | Tech Stack | Repo |
 |---|---|---|---|
-| [Notas](https://deanosmith.github.io/Notas/) | Note-taking app with real-time saving & sharing, Google authentication, and a clean  interface. | Firebase · Firestore · Google Auth |[Repo](https://github.com/deanosmith/Notas)
+| [Atlas](https://atlas-index.vercel.app/) | Film recommendations with ultra-fine personalised granularity. | Vercel · Supabase |
 | [Lexi Score](https://lexi-score.vercel.app/) | Reading complexity tool for analysing and calculating a book's lexical difficulty. | Lexical Analysis · LLM · Vercel · Supabase |
 | [Stride](https://stride-dynamics.vercel.app/) | ACWR Fitness monitor ensuring bodily strain is optimal and sustainable. | Vercel · API Integration |
+| [Notas](https://deanosmith.github.io/Notas/) | Note-taking app with real-time saving & sharing, Google authentication, and a clean  interface. | Firebase · Firestore · Google Auth |[Repo](https://github.com/deanosmith/Notas)
 | [Brevity](https://brevity-ios.vercel.app/) | Dynamic iOS wallpapers displaying weather, calendar, and other personalisations | iOS Shortcuts · Vercel · API Integration | [Repo](https://github.com/deanosmith/Brevity-Wallpaper)
 
 
@@ -63,14 +72,5 @@ I build and maintain **data infrastructure and processing systems**,
 | **Data Platforms** | Clean, reliable, maintainable data systems |
 | **Automation** | Removing repetitive work with small, useful tools |
 
-
----
-
-## Links
-
-| Platform | Link |
-|---|---|
-| **Personal Site** | [deanosmith.github.io/deano](https://deanosmith.github.io/deano/) |
-| **LinkedIn** | [Dean M. Smith](https://www.linkedin.com/in/dean-m-smith-a1ba171a1/) |
 
 ---
